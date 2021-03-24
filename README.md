@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Guilherme Luz;
+- 👀 I’m interested in music, food, travel and technology;
+- 🌱 I’m currently learning Kotlin;
+- 💞️ I’m looking to collaborate on android projects;
+- 📫 How to reach me: guilherme.luz@live.com;
+- 👋 Thanks for stopping by!
